@@ -1,0 +1,6 @@
+{
+  "name": "Uttara Saliya Sri Dalada Rajamaha Viharaya",
+  "description": "The official interactive web portal of the historic Uttara Saliya Sri Dalada Rajamaha Viharaya in Saliyapura, Anuradhapura, featuring Chief Incumbent Ven. Wilachchiye Saddhananda Himi, virtual Dhamma assistance, Buddhist chants, and sponsorships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
